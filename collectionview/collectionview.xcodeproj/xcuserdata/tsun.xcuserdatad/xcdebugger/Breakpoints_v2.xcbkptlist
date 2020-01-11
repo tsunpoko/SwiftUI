@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D69C571-D193-4A83-ACEA-47F5E4D37E86"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AABB709-B683-4174-A031-9202DB8A487F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "collectionview/myCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "myCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8AABB709-B683-4174-A031-9202DB8A487F - 57c35d447f35a4bf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionview.myCell.myImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "collectionview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tsun/Desktop/SwiftUI_tutorial/collectionview/collectionview/myCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8AABB709-B683-4174-A031-9202DB8A487F - e1435224fd03a0b3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionview.myCell.myImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "collectionview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tsun/Desktop/SwiftUI_tutorial/collectionview/collectionview/myCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "8AABB709-B683-4174-A031-9202DB8A487F - 9c62caf1146d15a2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionview.myCell.myImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "collectionview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tsun/Desktop/SwiftUI_tutorial/collectionview/collectionview/myCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "8AABB709-B683-4174-A031-9202DB8A487F - b4d3a9311570751b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionview.myCell.myImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "collectionview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tsun/Desktop/SwiftUI_tutorial/collectionview/collectionview/myCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "8AABB709-B683-4174-A031-9202DB8A487F - 31b776f1c0f9da29"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionview.myCell.init(frame: __C.CGRect) -&gt; collectionview.myCell"
+                  moduleName = "collectionview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tsun/Desktop/SwiftUI_tutorial/collectionview/collectionview/myCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "8AABB709-B683-4174-A031-9202DB8A487F - 7a8ac01241b98e25"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "collectionview.myCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;collectionview.myCell&gt;"
+                  moduleName = "collectionview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tsun/Desktop/SwiftUI_tutorial/collectionview/collectionview/myCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

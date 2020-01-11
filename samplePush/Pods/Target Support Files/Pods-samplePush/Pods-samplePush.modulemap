@@ -1,0 +1,6 @@
+framework module Pods_samplePush {
+  umbrella header "Pods-samplePush-umbrella.h"
+
+  export *
+  module * { export * }
+}
